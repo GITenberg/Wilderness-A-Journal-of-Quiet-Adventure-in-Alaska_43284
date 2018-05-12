@@ -1,0 +1,32 @@
+_repo: Wilderness-A-Journal-of-Quiet-Adventure-in-Alaska_43284
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43284-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Kent, Rockwell
+    alias: Hogarth, William, Jr.
+    birthdate: 1882
+    deathdate: 1971
+    gutenberg_agent_id: '37247'
+    url: http://www.gutenberg.org/2009/agents/37247
+description: Chronicles a 7-month odyssey in 1918 when Rockwell Kent and his 9-year
+  old son stayed in a primitive cabin on an island near Seward, Alaska.
+gutenberg_issued: '2013-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43284'
+  lccn: '20006728'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Renard Island (Alaska) -- Description and travel'
+- !lcsh 'Renard Island (Alaska) in art'
+- !lcsh 'Artists -- Alaska -- Biography'
+- !lcsh 'Kent, Rockwell, 1882-1971'
+- !lcc 'F850.5'
+title: Wilderness, A Journal of Quiet Adventure in Alaska
+url: http://www.gutenberg.org/ebooks/43284
